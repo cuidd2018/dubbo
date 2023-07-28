@@ -28,6 +28,12 @@ import static java.lang.Integer.compare;
  */
 public interface Prioritized extends Comparable<Prioritized> {
 
+
+
+    /**
+     * mark by cdd 优先级接口
+     */
+
     /**
      * The {@link Comparator} of {@link Prioritized}
      */
